@@ -1,3 +1,3 @@
 ## Weather App
 
-Weather App UI built using SwiftUI and swift
+Weather App UI built using SwiftUI and Swift
