@@ -3,4 +3,4 @@
 Weather App UI built using SwiftUI and Swift
 
 
-## Compatible
+## Compatiblility
